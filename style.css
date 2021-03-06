@@ -1,0 +1,66 @@
+body {
+    background-image: url(img/t-bgi.jpg);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: none;
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+    font-family: serif;
+    align-content: space-between;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    height: 60px;
+    line-height: 60px;
+}
+
+.board {
+    background-image: url(img/board.png);
+    background-size: cover;
+    z-index: 11;
+    width: 110px;
+    height: 80px;
+    line-height: 80px;
+    font-size: 20px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    border: none;
+    color: white;
+}
+
+.mannaka {
+    margin-top: 155px;
+    text-align: center;
+} 
+
+.portfolio {
+    font-family: serif;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 82px;
+}
+
+.name {
+    width: 95px;
+    height: 70px;
+    line-height: 70px;
+    font-weight: bold;
+    font-family: 'Garamond';
+    font-size: 30px;
+    
+}

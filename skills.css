@@ -1,0 +1,43 @@
+body {
+    width: 100%;
+    background-size: cover;
+    background-image: url(img/t-bgi.jpg);
+    background-repeat: none;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.language {
+    width: 150px;
+    padding: 11px 20px 0;
+    text-align: center;
+    opacity: 0.9;
+    margin-top: 30px;
+    background-color: rgba(255,255,255,0.6);
+}
+
+img {
+    width: 100%;
+}
+
+.js {
+    padding-top: 60px;
+}
+
+.rjs {
+    padding-top: 70px;
+}
+
+.py {
+    padding-top: 57px;
+}
+
+.dj {
+    padding-top: 57px;
+}
