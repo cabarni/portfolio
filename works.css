@@ -1,0 +1,31 @@
+body {
+    background-image: url(img/t-bgi.jpg);
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: none;
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+    font-family: serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.work {
+    width: 150px;
+    padding: 11px 20px 0;
+    text-align: center;
+    opacity: 0.9;
+    margin-top: 30px;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    color: white;
+}
